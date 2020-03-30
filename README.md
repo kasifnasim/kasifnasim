@@ -13,4 +13,4 @@ The data is supervised and categorical.
 The predictor variable was categorized into two types 'Good Lead' and 'Bad Lead'.
 
 Result-
-XGBoost Classifier gave accuracy of nearly 70%.
+XGBoost Classifier gave accuracy of nearly 71%.
