@@ -5,12 +5,12 @@ FicZon business is majorly dependent on the sales force effectiveness. As the ma
 
 FicZon wants to explore Machine Learning to pre-categorize the lead quality and as result, expecting significant increase in sales effectiveness.
 
-Project Target:
+Project Target-
 Machine Learning model to predict the sales predict the lead.
 
-Analysis
+Analysis-
 The data is supervised and categorical.
 The predictor variable was categorized into two types 'Good Lead' and 'Bad Lead'.
 
-Result
+Result-
 XGBoost Classifier gave accuracy of nearly 70%.
